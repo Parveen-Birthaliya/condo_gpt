@@ -1,8 +1,5 @@
 # Condo GPT
 
-## Video
-[![BUILD YOUR AI PORTFOLIO](https://img.youtube.com/vi/k7zFH1PYaRA/0.jpg)](https://www.youtube.com/watch?v=k7zFH1PYaRA)
-
 Condo GPT is an intelligent assistant for querying and analyzing condominium data in Miami. It uses natural language processing to interpret user questions and provide insights about condo buildings, units, sales, and market trends.
 Provided is a sample of the [Condo Cube]([https://duckduckgo.com](https://condo-cube.com/)) database which can be used to query data in the following markets:
 - South Beach
@@ -11,10 +8,6 @@ Provided is a sample of the [Condo Cube]([https://duckduckgo.com](https://condo-
 
 The purpose is to allow real estate agents and investors who are not technical, to easily and quickly perform high-level analyses and comparisons of condos in Miami, and lead their investment decisions. Currently this job is performed by analysts which are paid a salary, so tools like these have the potential to save brokerages thousands of dollars per month in salary.
 
-## Get an AI Engineer Job | Contributing
-I used this as a portfolio project to get my first AI Engineer job. I have listed some issues which you can solve or submit your own PR's for improvements to the tool. Open source contributions are a very good way to get AI jobs since technologies like LangChain are so new, and many companies currently do not require work experience with them.
-
-Please feel free to submit a Pull Request.
 
 ## Features
 
