@@ -1,32 +1,49 @@
-# Condo GPT
+# 🏙️ Condo GPT
 
-Condo GPT is an intelligent assistant for querying and analyzing condominium data in Miami. It uses natural language processing to interpret user questions and provide insights about condo buildings, units, sales, and market trends.
-Provided is a sample of the [Condo Cube]([https://duckduckgo.com](https://condo-cube.com/)) database which can be used to query data in the following markets:
-- South Beach
-- Miami Beach
-- South of Fifth
+**Condo GPT** is an intelligent assistant designed for querying and analyzing condominium data in **Miami** using natural language.  
+It enables real estate agents, analysts, and investors to explore insights about condo buildings, units, sales, and market trends—**without writing a single line of code**.
 
-The purpose is to allow real estate agents and investors who are not technical, to easily and quickly perform high-level analyses and comparisons of condos in Miami, and lead their investment decisions. Currently this job is performed by analysts which are paid a salary, so tools like these have the potential to save brokerages thousands of dollars per month in salary.
+---
 
+## 🚀 Overview
 
-## Features
+Condo GPT leverages **Natural Language Processing (NLP)** and **AI agents** to interpret human questions and convert them into complex SQL queries that fetch actionable insights from a structured real estate database.
 
-- Natural language interface for querying condo data
-- Integration with Google Maps API for location-based queries
-- Dynamic SQL generation for complex database queries
-- Interactive maps and charts for data visualization
-- PDF report generation capability
+A sample of the **Condo Cube** database is provided, which includes data for the following markets:
 
-## Technologies Used
+- 🏝️ South Beach  
+- 🌴 Miami Beach  
+- 🏗️ South of Fifth  
 
-- Python 3.x
-- Flask web framework
-- PostgreSQL database
-- LangChain & LangGraph agents
-- OpenAI's GPT models for natural language understanding
-- Google Maps API for geocoding and directions
-- Chart.js for data visualization
-- ReportLab for PDF generation
+The tool empowers **non-technical users** to perform advanced market analysis, comparisons, and investment research that would typically require paid analysts—potentially saving brokerages **thousands of dollars per month**.
+
+---
+
+## ✨ Features
+
+- 🧠 **Natural Language Interface** – Query condo data using plain English  
+- 🗺️ **Google Maps Integration** – Location-based insights and visual mapping  
+- 🧩 **Dynamic SQL Generation** – AI-driven construction of database queries  
+- 📊 **Interactive Visuals** – Generate charts and graphs dynamically  
+- 📄 **PDF Report Generation** – Export analytical summaries  
+- 🧭 **Multi-Agent Architecture** – Powered by LangChain and LangGraph  
+
+---
+
+## 🧰 Technologies Used
+
+| Component | Technology |
+|------------|-------------|
+| Backend | Python 3.x, Flask |
+| Database | PostgreSQL |
+| AI & NLP | OpenAI GPT, LangChain, LangGraph |
+| Visualization | Chart.js |
+| Mapping | Google Maps API - geocoding and directions |
+| Reporting | ReportLab-PDF generation |
+| Environment | virtualenv |
+
+---
+
 
 ## Setup
 
